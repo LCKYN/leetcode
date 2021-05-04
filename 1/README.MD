@@ -23,7 +23,7 @@ Input: nums = [3,3], target = 6
 Output: [0,1]
 ```
 
-Constraints:
+### Constraints:
 
 * `2 <= nums.length <= 1E3`
 * `-1E9 <= nums[i] <= 1E9`
