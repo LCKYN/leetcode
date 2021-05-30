@@ -19,5 +19,5 @@ Output: false
 ```
 
 ### Constraints:
-* *1 <= sentence.length <= 1000`
+* `1 <= sentence.length <= 1000`
 * `sentence` consists of lowercase English letters.
