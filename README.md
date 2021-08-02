@@ -1,4 +1,5 @@
 # leetcode
 
 my solution
-> 50 solution
+
+\> 100 solution
